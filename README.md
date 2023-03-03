@@ -1,1 +1,1 @@
-# nodejs_windows
+# nodejs and npm installation on Windows
