@@ -86,7 +86,4 @@ Similar to the tutorial shown in the class, you can edit the _sketch.js_ file an
 ## Additional Troubleshooting:
 Turning off and on your computer (restart) is always an option :wink:.
 
-<a href = "https://github.com/abulalarabi/nodejs_windows/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = abulalarabi/nodejs_windows"/>
-</a>
-[](https://contrib.rocks)
+
