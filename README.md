@@ -9,4 +9,8 @@ Go to [Nodejs official site](https://nodejs.org/en/download/) and download the l
 ![Fig1](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide1.PNG)
 
 ## Run the installer
-  * Step 1:
+  * Step 1: Press next and accept license agreement.
+  ![Fig2](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide2.PNG)
+
+ * Step 2 !!!IMPORTANT!!!: Click on the drive icon beside _npm package manager_ and select _Entire feature will be installed on local hard drive_.
+ ![Fig2](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide3.PNG)
