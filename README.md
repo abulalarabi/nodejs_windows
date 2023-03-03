@@ -71,13 +71,16 @@ Go to [Nodejs official site](https://nodejs.org/en/download/) and download the l
   node app.js
   ```
   
-   !!! if you are asked to allow firewall, select both the checkbox and click _Allow access_.
+   !!! if you are asked to allow firewall, select both the checkbox and click _Allow access_. !!!
   
   ![](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide14.PNG)
   
-  * Step 5: Open a browser (Chrome Preferred) and enter the url [](127.0.0.1:3000) and click on _click me_. It should bring a logo similar to the following figure:
+  * Step 5: Open a browser (Chrome Preferred) and enter the url [127.0.0.1:3000](127.0.0.1:3000) and click on _click me_. It should bring a logo similar to the following figure:
   
   ![](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide15.PNG)
 
 ## Editing p5js:
 Similar to the tutorial shown in the class, you can edit the _sketch.js_ file and refresh the browser to reflect the changes.
+
+## Additional Troubleshooting:
+Turning off and on your computer (restart) is always an option :wink:.
