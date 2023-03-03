@@ -39,14 +39,17 @@ Go to [Nodejs official site](https://nodejs.org/en/download/) and download the l
   ![](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide8.PNG)
   
   * Step 2: Type the following commands one by one:
-  '''
+  ```
   npm -v
-  '''
-  '''
+  ```
+  ```
   node -v
-  '''
+  ```
+  
   They should produce output something like this:
+  
   ![](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide9.PNG)
+  
   If there is any error go back to the beginning of the tutorial and follow the instructions again. 
 
 ## Running local server for p5js:
@@ -56,24 +59,23 @@ Go to [Nodejs official site](https://nodejs.org/en/download/) and download the l
   ![](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide10.PNG)
   
   * Step 3: Run the following commands one by one:
-  '''
+  ```
   npm install npm@latest -g
-  '''
-  '''
+  ```
+  ```
   npm install express --save
-  '''
+  ```
   
   * Step 4: Now run the local server by typing the following command (you do not need to change or create app.js, it is already pre-configured):
-  '''
+  ```
   node app.js
-  '''
+  ```
   
-  * Step 5: Open a browser (Chrome Preferred) and enter the url [](127.0.0.1:3000) and click on _click me_. 
-  !!! if you are asked to allow firewall, select both the checkbox and click _Allow access_.
+   !!! if you are asked to allow firewall, select both the checkbox and click _Allow access_.
   
   ![](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide14.PNG)
   
-  It should bring a logo similar to the following figure:
+  * Step 5: Open a browser (Chrome Preferred) and enter the url [](127.0.0.1:3000) and click on _click me_. It should bring a logo similar to the following figure:
   
   ![](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide15.PNG)
 
