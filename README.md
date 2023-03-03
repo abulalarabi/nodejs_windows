@@ -9,4 +9,4 @@ Go to [Nodejs official site](https://nodejs.org/en/download/) and download the l
 ![Fig1](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide1.PNG)
 
 ## Run the installer
-..* Step 1:
+  * Step 1:
