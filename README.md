@@ -6,13 +6,17 @@ Remove any prior installation of node or npm on your computer, including any WSL
 
 ## Download Nodejs
 Go to [Nodejs official site](https://nodejs.org/en/download/) and download the latest version.
-![Fig1](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide1.PNG)
+![Fig1](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide1.PNG | width=200)
 
 ## Run the installer
-  ### Step 1: Press next and accept license agreement.
-  * 
-  ![Fig2](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide2.PNG)
+  * Step 1: Press next and accept license agreement.
+   
+  ![Fig2](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide2.PNG | width=200)
 
- ### Step 2 !!!IMPORTANT!!!: Click on the drive icon beside _npm package manager_ and select _Entire feature will be installed on local hard drive_.
+ * Step 2 !!!IMPORTANT!!!: Click on the drive icon beside _npm package manager_ and select _Entire feature will be installed on local hard drive_.
  
- ![Fig2](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide3.PNG)
+ ![Fig2](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide3.PNG | width=200)
+
+  * Step 3 !!!IMPORTANT!!!: Do the same for _Add to PATH_.
+  
+  ![Fig2](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide4.PNG | width=200)
