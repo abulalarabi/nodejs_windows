@@ -6,6 +6,7 @@ Remove any prior installation of node or npm on your computer, including any WSL
 
 ## Download Nodejs
 Go to [Nodejs official site](https://nodejs.org/en/download/) and download the latest version.
+
 ![](https://github.com/abulalarabi/nodejs_windows/raw/main/figures/nodejs_windows/Slide1.PNG)
 
 ## Run the installer
